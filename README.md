@@ -34,7 +34,7 @@ public:
 
 ### Built With
 * [C++](https://en.cppreference.com/w/)
-* [C](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
+* [C](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html) 
 
 <!-- GETTING STARTED -->
 ## Getting Started
